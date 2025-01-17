@@ -1,0 +1,1 @@
+This is an Image Classification task on the CUB dataset using Siamese Networks. Siamese Networks are used in Few Shot Learning scenarios where we assume that we dont have sufficient training and testing data to traditionally train and test a ML model like a Convolutional Neural Net.
